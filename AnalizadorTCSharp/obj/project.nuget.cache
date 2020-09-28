@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cno7cYlMYCwdI/lpOcC0LHjhMCf+9aJo0C9rMOYU67UDQUp6J+rbuv15j5i14GBeB9vhQT7wEif3DyC2/CA4Hw==",
+  "success": true,
+  "projectFilePath": "G:\\Escritorio Falso\\Programacion\\C#\\prueba\\AnalizadorTCSharp\\AnalizadorTextoCSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alj_b\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\alj_b\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\alj_b\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\alj_b\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\alj_b\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\alj_b\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\alj_b\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

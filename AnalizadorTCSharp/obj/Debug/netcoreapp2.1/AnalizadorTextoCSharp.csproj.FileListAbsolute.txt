@@ -1,0 +1,22 @@
+C:\Users\Alejandro\Documents\CarpetaDebianDAM\ExamenC#\ProjecteM06UF1\bin\Debug\netcoreapp2.1\AnalizadorTexto-C#.deps.json
+C:\Users\Alejandro\Documents\CarpetaDebianDAM\ExamenC#\ProjecteM06UF1\bin\Debug\netcoreapp2.1\AnalizadorTexto-C#.runtimeconfig.json
+C:\Users\Alejandro\Documents\CarpetaDebianDAM\ExamenC#\ProjecteM06UF1\bin\Debug\netcoreapp2.1\AnalizadorTexto-C#.runtimeconfig.dev.json
+C:\Users\Alejandro\Documents\CarpetaDebianDAM\ExamenC#\ProjecteM06UF1\bin\Debug\netcoreapp2.1\AnalizadorTexto-C#.dll
+C:\Users\Alejandro\Documents\CarpetaDebianDAM\ExamenC#\ProjecteM06UF1\bin\Debug\netcoreapp2.1\AnalizadorTexto-C#.pdb
+C:\Users\Alejandro\Documents\CarpetaDebianDAM\ExamenC#\ProjecteM06UF1\obj\Debug\netcoreapp2.1\AnalizadorTextoCSharp.csprojAssemblyReference.cache
+C:\Users\Alejandro\Documents\CarpetaDebianDAM\ExamenC#\ProjecteM06UF1\obj\Debug\netcoreapp2.1\AnalizadorTextoCSharp.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Documents\CarpetaDebianDAM\ExamenC#\ProjecteM06UF1\obj\Debug\netcoreapp2.1\AnalizadorTextoCSharp.AssemblyInfo.cs
+C:\Users\Alejandro\Documents\CarpetaDebianDAM\ExamenC#\ProjecteM06UF1\obj\Debug\netcoreapp2.1\AnalizadorTexto-C#.dll
+C:\Users\Alejandro\Documents\CarpetaDebianDAM\ExamenC#\ProjecteM06UF1\obj\Debug\netcoreapp2.1\AnalizadorTexto-C#.pdb
+G:\Escritorio Falso\Programacion\C#\prueba\AnalizadorTCSharp\bin\Debug\netcoreapp2.1\AnalizadorTexto-C#.deps.json
+G:\Escritorio Falso\Programacion\C#\prueba\AnalizadorTCSharp\bin\Debug\netcoreapp2.1\AnalizadorTexto-C#.runtimeconfig.json
+G:\Escritorio Falso\Programacion\C#\prueba\AnalizadorTCSharp\bin\Debug\netcoreapp2.1\AnalizadorTexto-C#.runtimeconfig.dev.json
+G:\Escritorio Falso\Programacion\C#\prueba\AnalizadorTCSharp\bin\Debug\netcoreapp2.1\AnalizadorTexto-C#.dll
+G:\Escritorio Falso\Programacion\C#\prueba\AnalizadorTCSharp\bin\Debug\netcoreapp2.1\AnalizadorTexto-C#.pdb
+G:\Escritorio Falso\Programacion\C#\prueba\AnalizadorTCSharp\obj\Debug\netcoreapp2.1\AnalizadorTextoCSharp.csprojAssemblyReference.cache
+G:\Escritorio Falso\Programacion\C#\prueba\AnalizadorTCSharp\obj\Debug\netcoreapp2.1\AnalizadorTextoCSharp.csproj.CoreCompileInputs.cache
+G:\Escritorio Falso\Programacion\C#\prueba\AnalizadorTCSharp\obj\Debug\netcoreapp2.1\AnalizadorTextoCSharp.AssemblyInfoInputs.cache
+G:\Escritorio Falso\Programacion\C#\prueba\AnalizadorTCSharp\obj\Debug\netcoreapp2.1\AnalizadorTextoCSharp.AssemblyInfo.cs
+G:\Escritorio Falso\Programacion\C#\prueba\AnalizadorTCSharp\obj\Debug\netcoreapp2.1\AnalizadorTexto-C#.dll
+G:\Escritorio Falso\Programacion\C#\prueba\AnalizadorTCSharp\obj\Debug\netcoreapp2.1\AnalizadorTexto-C#.pdb
+G:\Escritorio Falso\Programacion\C#\prueba\AnalizadorTCSharp\obj\Debug\netcoreapp2.1\AnalizadorTextoCSharp.genruntimeconfig.cache
